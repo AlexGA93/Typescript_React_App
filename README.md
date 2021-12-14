@@ -130,3 +130,5 @@ export default App;
   }
     ```
 ## Images
+![1](https://github.com/AlexGA93/Typescript_React_App/blob/main/src/imgs/todo1.png)
+![2](https://github.com/AlexGA93/Typescript_React_App/blob/main/src/imgs/todo2.png)
